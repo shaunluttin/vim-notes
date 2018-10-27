@@ -1,7 +1,6 @@
 
 > Progress: Currently at location 3033 in Practical Vim at https://read.amazon.com/ 
 
-
 # buffer list
 
 * buffer: in memory representation of a file
@@ -51,5 +50,7 @@ Args works with backtick expansion and with one or more globs.
     :args `some-cli-command`
     :args *.js *.css
     :args **/*.js **/*.cs
+
+buffer list is messy, argument list is tidy workspace
 
 # split windows
