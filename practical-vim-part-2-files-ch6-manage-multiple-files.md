@@ -1,6 +1,9 @@
 # Part 2: Files
 
-> Progress: Currently at location 3235 in Practical Vim at https://read.amazon.com/ 
+Progress: 
+
+* Currently at location 3235 in Practical Vim at https://read.amazon.com/ 
+* I did not finish the sections on Tabs, because those are a low priority right now.
 
 # buffer list
 
