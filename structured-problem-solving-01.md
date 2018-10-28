@@ -11,8 +11,9 @@ Bits:
 Bit #1 > Possible Actions:
 
 1. Read Practical Vim > Part Two: Files > Chapter 6: Manage Multiple Files. Done.
-1. Read Practical Vim > Part Two: Files > Chapter 7: Open Files and Save Them to Disc.**
-2. Watch a video of an how a Vim expert uses Vim for development.
+2. Read Practical Vim > Part Two: Files > Chapter 7: Open Files and Save Them to Disc.**
+3. Watch a video of an how a Vim expert uses Vim for development.
+4. Read `:help argument-list`
 
 Action #1 > Evaluation
 
