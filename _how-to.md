@@ -1,7 +1,36 @@
 
+
+# How To
+
+Some how to items in the order that I discover them.
+
+### Find and Replace
+
+    %s/find/replace/flag
+
+### Trim Trailing Whitespace
+
+    %s/\s\+$//g
+
+### Create a new file
+
+    // create a new buffer in the current window
+    :enew
+
+    // save it as
+    :save <name>
+
 ### Unload a buffer
 
     :bd
+
+### Turn on spell check
+
+    set spell
+
+### Remove a file from the args list
+
+    :argd
 
 ### Add one or more files to an existing arg list
 
@@ -12,16 +41,12 @@
 
     :args {files}
 
-### Trim Trailing Whitespace
-
-TODO
-
 ### List Buffers
 
     :args
     :buffers | :ls
 
-### Activate a buffer 
+### Activate a buffer
 
     :buffer <file>
     :buffer <index>
